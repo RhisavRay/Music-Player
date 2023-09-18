@@ -65,13 +65,14 @@ nav ul
 .bottom
 {
     position: fixed;
-    height: 80px;
+    height: 90px;
     width: 100%;
     background-color: black;
     color: white;
     bottom: 0;
     display: flex;
-    flex-direction: column;
+    gap: 10px;
+    flex-direction: column-reverse;
     justify-content: center;
     align-items: center;
 }
@@ -83,7 +84,9 @@ nav ul
 
 .icons
 {
-    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
 }
 
 .icons i
