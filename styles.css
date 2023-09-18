@@ -35,10 +35,15 @@ nav ul
     background-color: black;
     color: white;
 }
+.nav li
+{
+    padding: 0 12px;
+}
 
 .brand img
 {
     width: 50px;
+    padding: 0 8px;
 }
 
 .brand
@@ -46,4 +51,5 @@ nav ul
     display: flex;
     align-items: center;
     font-weight: bolder;
+    font-size: 1.3rem;
 }
