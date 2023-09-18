@@ -53,3 +53,20 @@ nav ul
     font-weight: bolder;
     font-size: 1.3rem;
 }
+
+
+/* Progress bar styling */
+
+.container
+{
+    min-height: 73vh;
+}
+
+.bottom
+{
+    position: fixed;
+    height: 70px;
+    width: 100%;
+    background-color: black;
+    bottom: 0;
+}
