@@ -65,7 +65,7 @@ nav ul
 .bottom
 {
     position: fixed;
-    height: 70px;
+    height: 80px;
     width: 100%;
     background-color: black;
     color: white;
@@ -80,3 +80,9 @@ nav ul
 {
     width: 80vw;
 }
+
+.icons
+{
+    margin-top: 15px;
+}
+
