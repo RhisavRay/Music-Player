@@ -86,3 +86,7 @@ nav ul
     margin-top: 15px;
 }
 
+.icons i
+{
+    cursor: pointer;
+}
