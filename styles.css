@@ -1,8 +1,11 @@
 /* Fonts added */
+
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 
+
 /* Universal Styles */
+
 *
 {
     padding: 0;
@@ -15,7 +18,9 @@ body
     background-color: antiquewhite;
 }
 
+
 /* Navbar Styling */
+
 nav
 {
     font-family: 'Ubuntu', sans-serif;
