@@ -59,7 +59,16 @@ nav ul
 
 .container
 {
-    min-height: 73vh;
+    min-height: 70vh;
+    background-color: black;
+    color: white;
+    font-family: 'Varela Round', sans-serif;
+    display: flex;
+    margin: 23px auto;
+    width: 70%;
+    border-radius: 12px;
+    padding: 34px;
+    background-image: url('bg.jpg');
 }
 
 .bottom
