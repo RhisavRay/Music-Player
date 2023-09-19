@@ -1,10 +1,12 @@
 /* Fonts added */
 
+
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 
 
 /* Universal Styles */
+
 
 *
 {
@@ -20,6 +22,7 @@ body
 
 
 /* Navbar Styling */
+
 
 nav
 {
@@ -56,6 +59,7 @@ nav ul
 
 
 /* Progress bar styling */
+
 
 .container
 {
@@ -102,3 +106,25 @@ nav ul
 {
     cursor: pointer;
 }
+
+
+/* Song List */
+
+.songItem
+{
+    height: 50px;
+    display: flex;
+    background-color: white;
+    color: black;
+    width: 80%;
+    margin: 12px 0;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 34px;
+}
+
+/* .songItem img
+{
+    width: 43px;
+    margin: 0 23px;
+} */
