@@ -133,3 +133,8 @@ nav ul
 {
     margin: 0 23px;
 }
+
+.timeStamp i
+{
+    cursor: pointer;
+}
